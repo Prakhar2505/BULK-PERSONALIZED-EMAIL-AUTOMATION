@@ -2,7 +2,7 @@
 Recently, my father conducted an online webinar.
 He needed my help with sending webinar links and personalized certificates to the attendees.
 This motivated me to do this project .
-This project will help you sending personalized mails at bulk , just follow the instructionsor reach out to me for any help.
+This project will help you sending personalized mails at bulk , just follow the instructions or reach out to me for any help.
 
 ## Dependencies
 - ### Contacts.csv 
